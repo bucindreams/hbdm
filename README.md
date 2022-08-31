@@ -1,8 +1,12 @@
-## ✨ Say Happy Birthday with Webpage
- Screenshot
-<p align="center">
-<img src="https://user-images.githubusercontent.com/71541409/164498700-1b44dcbe-7ab8-4f2e-bf48-085597875043.jpg" width="60%" />
-</p>
+<h1 align='center'> HAPPY BIRTHDAY ARDA🎉 </h1>
+Special Ultah Saya
+
+
+<a href="https://bucindreams.github.io/"><img src="https://telegra.ph/file/f391e6879a8aaf14c0ed4.jpg" alt="Bucin Dreams" border="0"></a>
+
+___
+
+
 
 > [Demo](https://fajaraldev.github.io/happybirthday/) &nbsp;&middot;&nbsp;
 > [Documentation](https://www.fajaraldev.com/2021/04/template-membuat-ucapan-happy-birthday.html)
@@ -13,10 +17,10 @@
 
     ```bash
     # Clone this repository or download
-    $ git clone https://github.com/fajaraldev/happybirthday
+    $ git clone https://github.com/bucindreams/hbdm
 
     # Go into the repository
-    $ cd happybirthday
+    $ cd hbdm
 
     # Open with your text editor
     $ code .
@@ -40,5 +44,5 @@ If you have any idea to make it more interesting, feel free to send a PR, or cre
 
 ### [MIT](LICENSE)
 
-> Github [@fajaraldev](https://github.com/fajaraldev) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar)
+> Github [@MasArda](https://github.com/ardaweb) <br>
+> Instagram [@ardasaha10](https://bit.ly/ArdaSaha10)
